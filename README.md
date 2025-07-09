@@ -56,6 +56,4 @@ Engenheiro Eletricista e de Segurança do trabalho. Apaixonado por tecnologias, 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goulartederson/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/goulartederson/)
-fbclid=PAZXh0bgNhZW0CMTEAAaetCCKtCzbd3Q2b860G0DfFgy4eqDRLNrO1cBQbKXPA_QceBcWBkph7d1XbuQ_aem_KXPSdPKr-vtncjHC8yjGqg)
-
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5533991144748)
